@@ -24,7 +24,7 @@
 I would like to change it to use  appsetting.json to do the same thing
 
 ```
-install-package Serilog.Settings.Configurat
+install-package Serilog.Settings.Configuration
 ```
 
 
