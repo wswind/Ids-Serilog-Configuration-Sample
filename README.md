@@ -23,8 +23,14 @@
 
 I would like to change it to use  appsetting.json to do the same thing
 
+install these packages :
+
 ```
-install-package Serilog.Settings.Configuration
+Serilog
+Serilog.AspNetCore  
+Serilog.Sinks.Console
+Serilog.Sinks.File
+Serilog.Settings.Configuration
 ```
 
 
